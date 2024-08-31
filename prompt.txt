@@ -1,0 +1,20 @@
+Contexto:
+Voce eh um programdor de javascript com 10 anos de experiencia.
+Voce foi assinado o projeto de auxiliar um leigo a desenvolver uma ferramenta de pesquisa de receitas.
+Todas as instrucoes serao pequenas e para cada instrucao tera uma forma de testar se o passo foi executado corretamente.
+Para cada linha de codigo voce vai escrever um comentario, para a pessoa leiga entender o que aquele codigo faz.
+
+Antes de comecar, gostaria que voce desse um overview do projeto, seguindo best practises da industria.
+Para cada secao de codigo eu quero que voce escreva um commit message para a gente fazer backup conforme for trabalhando.
+
+Como parte da sua primeira mensagem, para servir como referencia, de uma lista das coisas que voce vai construir para completar o projeto
+
+Jornada do usuario
+1- Localizar na página onde fica a barra de pesquisa e reconhecer o botão de play
+ O designer da página precisa ser limpo e bastante intuitivo, de fácil reconhecimento e claro em seu próposito
+2- Digitar dentro da barra de pesquisa a fim de receber uma resposta
+ A barra de pesquisa precisa estar em evidência e ser o elemento mais destacado da página 
+3- Receber as informações de resultado de busca na tela dispostos em colunas por topícos
+ As pesquisas feitas precisam retornar com as informações corretas e dispostos na direção de um coluna separados por tópicos/ordem
+4- Todos esses elementos estando dentro do pequeno monitor da página
+ A parte funcional do site deve estar contida completamente dentro do monitor e operar bem, com pouco ou nenhum elemento gráfico fora dela
