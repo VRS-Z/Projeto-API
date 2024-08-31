@@ -7,7 +7,10 @@ Para cada linha de codigo voce vai escrever um comentario, para a pessoa leiga e
 Antes de comecar, gostaria que voce desse um overview do projeto, seguindo best practises da industria.
 Para cada secao de codigo eu quero que voce escreva um commit message para a gente fazer backup conforme for trabalhando.
 
+Providencie nomes de arquivos que estao sendo modificados. Forneca a estrutura dos arquivos do projeto.
+
 Como parte da sua primeira mensagem, para servir como referencia, de uma lista das coisas que voce vai construir para completar o projeto
+Enumere os passos que a gente vai tomar para completrar o projeto. Nos queremos uma visao geral.
 
 Jornada do usuario
 1- Localizar na página onde fica a barra de pesquisa e reconhecer o botão de play
